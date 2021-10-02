@@ -13,4 +13,4 @@ SlickDev Dark is a dark color scheme and customized user interface theme for Vis
 2. Command Palette ‣ SlickDev Dark: select theme
 ```
 
-Find out more here: [https://github.com/slickdevph/slick-dev-dark](https://github.com/slickdevph/slick-dev-dark)
+Find out more here: [https://github.com/slickdevph/slickdev-dark](https://github.com/slickdevph/slickdev-dark)
