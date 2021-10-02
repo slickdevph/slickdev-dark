@@ -1,0 +1,39 @@
+{
+    "name": "slickdev-dark",
+    "displayName": "SlickDev Dark",
+    "description": "Professional theme by SlickDevPH.",
+    "version": "1.1.0",
+    "icon": "images/SlickDevDark.png",
+    "publisher": "SlickDevPH",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/slickdevph/slickdev-dark"
+    },
+    "keyword": [
+        "theme",
+        "dark theme",
+        "slick dev",
+        "slickdev theme",
+        "slickdevph",
+        "slick theme",
+        "slickdev dark",
+        "minimal",
+        "syntax highlighting",
+        "focus"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SlickDev Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SlickDev Dark-color-theme.json"
+            }
+        ]
+    }
+}
