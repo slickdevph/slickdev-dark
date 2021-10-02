@@ -3,7 +3,7 @@
     "displayName": "SlickDev Dark",
     "description": "Professional theme by SlickDevPH.",
     "version": "1.2.0",
-    "icon": "images/SlickDevDark.png",
+    "icon": "images/SlickDevDark.PNG",
     "publisher": "SlickDevPH",
     "engines": {
         "vscode": "^1.60.0"
